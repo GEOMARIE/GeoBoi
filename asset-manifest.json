@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geoboi/static/css/main.6e6328ed.css",
+    "main.js": "/geoboi/static/js/main.288d0c56.js",
+    "static/js/787.75318dc3.chunk.js": "/geoboi/static/js/787.75318dc3.chunk.js",
+    "index.html": "/geoboi/index.html",
+    "main.6e6328ed.css.map": "/geoboi/static/css/main.6e6328ed.css.map",
+    "main.288d0c56.js.map": "/geoboi/static/js/main.288d0c56.js.map",
+    "787.75318dc3.chunk.js.map": "/geoboi/static/js/787.75318dc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e6328ed.css",
+    "static/js/main.288d0c56.js"
+  ]
+}
